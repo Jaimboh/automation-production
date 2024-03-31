@@ -42,6 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Watch the Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zwpjFENvArc" frameborder="0" allowfullscreen></iframe>
+[![Watch the demo video](https://img.youtube.com/vi/zwpjFENvArc/0.jpg)](https://youtu.be/zwpjFENvArc)
+
 
 
